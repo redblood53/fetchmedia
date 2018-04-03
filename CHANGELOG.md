@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+# Changelog
 
-* TODO: Describe initial release.
+## 0.0.1
+ - Added allAudioFiles method to fetch audio from device
